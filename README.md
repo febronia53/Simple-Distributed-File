@@ -6,3 +6,4 @@
 - when server recieves all data from all chunks it make groupby on it to collect them all.
 - finally when client connect to server and ask data, server will send it from its database and it will be stored on client device.
 - Note: all server, client and chunks should be connected on the same network.
+- This code can run on multiple chunks, clients and only one server
